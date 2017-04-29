@@ -1,0 +1,1 @@
+D:\Telerik\CSharp High Quality Code Part 2\2. Code Tuning and Optimization\Performance Comparison\CompareSimpleMaths\bin\Debug\CompareSimpleMaths.exe.config
