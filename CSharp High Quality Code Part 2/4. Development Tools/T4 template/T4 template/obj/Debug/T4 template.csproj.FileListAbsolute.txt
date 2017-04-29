@@ -1,0 +1,6 @@
+D:\Telerik\CSharp High Quality Code Part 2\4. Development Tools\T4 template\T4 template\bin\Debug\T4 template.exe.config
+D:\Telerik\CSharp High Quality Code Part 2\4. Development Tools\T4 template\T4 template\bin\Debug\T4 template.exe
+D:\Telerik\CSharp High Quality Code Part 2\4. Development Tools\T4 template\T4 template\bin\Debug\T4 template.pdb
+D:\Telerik\CSharp High Quality Code Part 2\4. Development Tools\T4 template\T4 template\obj\Debug\T4 template.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharp High Quality Code Part 2\4. Development Tools\T4 template\T4 template\obj\Debug\T4 template.exe
+D:\Telerik\CSharp High Quality Code Part 2\4. Development Tools\T4 template\T4 template\obj\Debug\T4 template.pdb
