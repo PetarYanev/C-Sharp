@@ -1,0 +1,4 @@
+D:\Telerik\CSharp High Quality Code Part 2\1. Defensive Programming and Exceptions\homework\Assertions-Homework\bin\Release\Assertions-Homework.exe
+D:\Telerik\CSharp High Quality Code Part 2\1. Defensive Programming and Exceptions\homework\Assertions-Homework\bin\Release\Assertions-Homework.pdb
+D:\Telerik\CSharp High Quality Code Part 2\1. Defensive Programming and Exceptions\homework\Assertions-Homework\obj\Release\Assertions-Homework.exe
+D:\Telerik\CSharp High Quality Code Part 2\1. Defensive Programming and Exceptions\homework\Assertions-Homework\obj\Release\Assertions-Homework.pdb
