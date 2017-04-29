@@ -1,0 +1,5 @@
+D:\Telerik\CSharp High Quality Code Part 2\3. Refactoring\homework\bin\Debug\GameFifteen.exe
+D:\Telerik\CSharp High Quality Code Part 2\3. Refactoring\homework\bin\Debug\GameFifteen.pdb
+D:\Telerik\CSharp High Quality Code Part 2\3. Refactoring\homework\obj\x86\Debug\Matrica.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharp High Quality Code Part 2\3. Refactoring\homework\obj\x86\Debug\GameFifteen.exe
+D:\Telerik\CSharp High Quality Code Part 2\3. Refactoring\homework\obj\x86\Debug\GameFifteen.pdb

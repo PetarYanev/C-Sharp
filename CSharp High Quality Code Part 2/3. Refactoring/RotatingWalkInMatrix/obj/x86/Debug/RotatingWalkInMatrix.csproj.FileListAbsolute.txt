@@ -1,0 +1,11 @@
+D:\Telerik\CSharp High Quality Code Part 2\3. Refactoring\homework\bin\Debug\RotatingWalkInMatrix.exe
+D:\Telerik\CSharp High Quality Code Part 2\3. Refactoring\homework\bin\Debug\RotatingWalkInMatrix.pdb
+D:\Telerik\CSharp High Quality Code Part 2\3. Refactoring\homework\obj\x86\Debug\RotatingWalkInMatrix.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharp High Quality Code Part 2\3. Refactoring\homework\obj\x86\Debug\RotatingWalkInMatrix.exe
+D:\Telerik\CSharp High Quality Code Part 2\3. Refactoring\homework\obj\x86\Debug\RotatingWalkInMatrix.pdb
+D:\Telerik\CSharp High Quality Code Part 2\3. Refactoring\RotatingWalkInMatrix\obj\x86\Debug\RotatingWalkInMatrix.exe
+D:\Telerik\CSharp High Quality Code Part 2\3. Refactoring\RotatingWalkInMatrix\obj\x86\Debug\RotatingWalkInMatrix.pdb
+D:\Telerik\CSharp High Quality Code Part 2\3. Refactoring\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe
+D:\Telerik\CSharp High Quality Code Part 2\3. Refactoring\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.pdb
+D:\Telerik\CSharp High Quality Code Part 2\3. Refactoring\RotatingWalkInMatrix\obj\x86\Debug\RotatingWalkInMatrix.csprojResolveAssemblyReference.cache
+D:\Telerik\CSharp High Quality Code Part 2\3. Refactoring\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe.config
